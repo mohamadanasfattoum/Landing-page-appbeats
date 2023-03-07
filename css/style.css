@@ -1,0 +1,19 @@
+body{font-family: 'Poppins', sans-serif;}
+
+.heading{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.Paragraph-geld{
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.Paragraph{
+
+}
+
+.bootm{color: blue;
+    border:solid 1px;
+border-radius : 50px;}
